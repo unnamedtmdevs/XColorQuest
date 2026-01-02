@@ -12,37 +12,37 @@
 			containerPortal = 821E1D272F04FC9400ADC85E /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 821E1D2E2F04FC9400ADC85E;
-			remoteInfo = "X:ColorQuest";
+			remoteInfo = "XColorQuest";
 		};
 		821E1D4B2F04FC9600ADC85E /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 821E1D272F04FC9400ADC85E /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 821E1D2E2F04FC9400ADC85E;
-			remoteInfo = "X:ColorQuest";
+			remoteInfo = "XColorQuest";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		821E1D2F2F04FC9400ADC85E /* X:ColorQuest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "X:ColorQuest.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		821E1D402F04FC9600ADC85E /* X:ColorQuestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "X:ColorQuestTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		821E1D4A2F04FC9600ADC85E /* X:ColorQuestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "X:ColorQuestUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		821E1D2F2F04FC9400ADC85E /* XColorQuest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "XColorQuest.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		821E1D402F04FC9600ADC85E /* XColorQuestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "XColorQuestTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		821E1D4A2F04FC9600ADC85E /* XColorQuestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "XColorQuestUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		821E1D312F04FC9400ADC85E /* X:ColorQuest */ = {
+		821E1D312F04FC9400ADC85E /* XColorQuest */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "X:ColorQuest";
+			path = "XColorQuest";
 			sourceTree = "<group>";
 		};
-		821E1D432F04FC9600ADC85E /* X:ColorQuestTests */ = {
+		821E1D432F04FC9600ADC85E /* XColorQuestTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "X:ColorQuestTests";
+			path = "XColorQuestTests";
 			sourceTree = "<group>";
 		};
-		821E1D4D2F04FC9600ADC85E /* X:ColorQuestUITests */ = {
+		821E1D4D2F04FC9600ADC85E /* XColorQuestUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "X:ColorQuestUITests";
+			path = "XColorQuestUITests";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -75,9 +75,9 @@
 		821E1D262F04FC9400ADC85E = {
 			isa = PBXGroup;
 			children = (
-				821E1D312F04FC9400ADC85E /* X:ColorQuest */,
-				821E1D432F04FC9600ADC85E /* X:ColorQuestTests */,
-				821E1D4D2F04FC9600ADC85E /* X:ColorQuestUITests */,
+				821E1D312F04FC9400ADC85E /* XColorQuest */,
+				821E1D432F04FC9600ADC85E /* XColorQuestTests */,
+				821E1D4D2F04FC9600ADC85E /* XColorQuestUITests */,
 				821E1D302F04FC9400ADC85E /* Products */,
 			);
 			sourceTree = "<group>";
@@ -85,9 +85,9 @@
 		821E1D302F04FC9400ADC85E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				821E1D2F2F04FC9400ADC85E /* X:ColorQuest.app */,
-				821E1D402F04FC9600ADC85E /* X:ColorQuestTests.xctest */,
-				821E1D4A2F04FC9600ADC85E /* X:ColorQuestUITests.xctest */,
+				821E1D2F2F04FC9400ADC85E /* XColorQuest.app */,
+				821E1D402F04FC9600ADC85E /* XColorQuestTests.xctest */,
+				821E1D4A2F04FC9600ADC85E /* XColorQuestUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,9 +95,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		821E1D2E2F04FC9400ADC85E /* X:ColorQuest */ = {
+		821E1D2E2F04FC9400ADC85E /* XColorQuest */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 821E1D542F04FC9600ADC85E /* Build configuration list for PBXNativeTarget "X:ColorQuest" */;
+			buildConfigurationList = 821E1D542F04FC9600ADC85E /* Build configuration list for PBXNativeTarget "XColorQuest" */;
 			buildPhases = (
 				821E1D2B2F04FC9400ADC85E /* Sources */,
 				821E1D2C2F04FC9400ADC85E /* Frameworks */,
@@ -108,18 +108,18 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				821E1D312F04FC9400ADC85E /* X:ColorQuest */,
+				821E1D312F04FC9400ADC85E /* XColorQuest */,
 			);
-			name = "X:ColorQuest";
+			name = "XColorQuest";
 			packageProductDependencies = (
 			);
-			productName = "X:ColorQuest";
-			productReference = 821E1D2F2F04FC9400ADC85E /* X:ColorQuest.app */;
+			productName = "XColorQuest";
+			productReference = 821E1D2F2F04FC9400ADC85E /* XColorQuest.app */;
 			productType = "com.apple.product-type.application";
 		};
-		821E1D3F2F04FC9600ADC85E /* X:ColorQuestTests */ = {
+		821E1D3F2F04FC9600ADC85E /* XColorQuestTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 821E1D572F04FC9600ADC85E /* Build configuration list for PBXNativeTarget "X:ColorQuestTests" */;
+			buildConfigurationList = 821E1D572F04FC9600ADC85E /* Build configuration list for PBXNativeTarget "XColorQuestTests" */;
 			buildPhases = (
 				821E1D3C2F04FC9600ADC85E /* Sources */,
 				821E1D3D2F04FC9600ADC85E /* Frameworks */,
@@ -131,18 +131,18 @@
 				821E1D422F04FC9600ADC85E /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				821E1D432F04FC9600ADC85E /* X:ColorQuestTests */,
+				821E1D432F04FC9600ADC85E /* XColorQuestTests */,
 			);
-			name = "X:ColorQuestTests";
+			name = "XColorQuestTests";
 			packageProductDependencies = (
 			);
-			productName = "X:ColorQuestTests";
-			productReference = 821E1D402F04FC9600ADC85E /* X:ColorQuestTests.xctest */;
+			productName = "XColorQuestTests";
+			productReference = 821E1D402F04FC9600ADC85E /* XColorQuestTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		821E1D492F04FC9600ADC85E /* X:ColorQuestUITests */ = {
+		821E1D492F04FC9600ADC85E /* XColorQuestUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 821E1D5A2F04FC9600ADC85E /* Build configuration list for PBXNativeTarget "X:ColorQuestUITests" */;
+			buildConfigurationList = 821E1D5A2F04FC9600ADC85E /* Build configuration list for PBXNativeTarget "XColorQuestUITests" */;
 			buildPhases = (
 				821E1D462F04FC9600ADC85E /* Sources */,
 				821E1D472F04FC9600ADC85E /* Frameworks */,
@@ -154,13 +154,13 @@
 				821E1D4C2F04FC9600ADC85E /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				821E1D4D2F04FC9600ADC85E /* X:ColorQuestUITests */,
+				821E1D4D2F04FC9600ADC85E /* XColorQuestUITests */,
 			);
-			name = "X:ColorQuestUITests";
+			name = "XColorQuestUITests";
 			packageProductDependencies = (
 			);
-			productName = "X:ColorQuestUITests";
-			productReference = 821E1D4A2F04FC9600ADC85E /* X:ColorQuestUITests.xctest */;
+			productName = "XColorQuestUITests";
+			productReference = 821E1D4A2F04FC9600ADC85E /* XColorQuestUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -186,7 +186,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 821E1D2A2F04FC9400ADC85E /* Build configuration list for PBXProject "X:ColorQuest" */;
+			buildConfigurationList = 821E1D2A2F04FC9400ADC85E /* Build configuration list for PBXProject "XColorQuest" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -200,9 +200,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				821E1D2E2F04FC9400ADC85E /* X:ColorQuest */,
-				821E1D3F2F04FC9600ADC85E /* X:ColorQuestTests */,
-				821E1D492F04FC9600ADC85E /* X:ColorQuestUITests */,
+				821E1D2E2F04FC9400ADC85E /* XColorQuest */,
+				821E1D3F2F04FC9600ADC85E /* XColorQuestTests */,
+				821E1D492F04FC9600ADC85E /* XColorQuestUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -258,12 +258,12 @@
 /* Begin PBXTargetDependency section */
 		821E1D422F04FC9600ADC85E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 821E1D2E2F04FC9400ADC85E /* X:ColorQuest */;
+			target = 821E1D2E2F04FC9400ADC85E /* XColorQuest */;
 			targetProxy = 821E1D412F04FC9600ADC85E /* PBXContainerItemProxy */;
 		};
 		821E1D4C2F04FC9600ADC85E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 821E1D2E2F04FC9400ADC85E /* X:ColorQuest */;
+			target = 821E1D2E2F04FC9400ADC85E /* XColorQuest */;
 			targetProxy = 821E1D4B2F04FC9600ADC85E /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -388,10 +388,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = "X:ColorQuest/X_ColorQuest.entitlements";
+				CODE_SIGN_ENTITLEMENTS = "XColorQuest/X_ColorQuest.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"X:ColorQuest/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"XColorQuest/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
@@ -402,20 +402,21 @@
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 15.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.example.project.X-ColorQuest";
+				PRODUCT_BUNDLE_IDENTIFIER = com.mag.cx0clprq8s;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
+				TARGETED_DEVICE_FAMILY = 1;
 				XROS_DEPLOYMENT_TARGET = 2.2;
 			};
 			name = Debug;
@@ -425,10 +426,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = "X:ColorQuest/X_ColorQuest.entitlements";
+				CODE_SIGN_ENTITLEMENTS = "XColorQuest/X_ColorQuest.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"X:ColorQuest/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"XColorQuest/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
@@ -439,20 +440,21 @@
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 15.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.example.project.X-ColorQuest";
+				PRODUCT_BUNDLE_IDENTIFIER = com.mag.cx0clprq8s;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
+				TARGETED_DEVICE_FAMILY = 1;
 				XROS_DEPLOYMENT_TARGET = 2.2;
 			};
 			name = Release;
@@ -474,7 +476,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/X:ColorQuest.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/X:ColorQuest";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/XColorQuest.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/XColorQuest";
 				XROS_DEPLOYMENT_TARGET = 2.2;
 			};
 			name = Debug;
@@ -496,7 +498,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/X:ColorQuest.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/X:ColorQuest";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/XColorQuest.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/XColorQuest";
 				XROS_DEPLOYMENT_TARGET = 2.2;
 			};
 			name = Release;
@@ -517,7 +519,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_TARGET_NAME = "X:ColorQuest";
+				TEST_TARGET_NAME = "XColorQuest";
 				XROS_DEPLOYMENT_TARGET = 2.2;
 			};
 			name = Debug;
@@ -538,7 +540,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_TARGET_NAME = "X:ColorQuest";
+				TEST_TARGET_NAME = "XColorQuest";
 				XROS_DEPLOYMENT_TARGET = 2.2;
 			};
 			name = Release;
@@ -546,7 +548,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		821E1D2A2F04FC9400ADC85E /* Build configuration list for PBXProject "X:ColorQuest" */ = {
+		821E1D2A2F04FC9400ADC85E /* Build configuration list for PBXProject "XColorQuest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				821E1D522F04FC9600ADC85E /* Debug */,
@@ -555,7 +557,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		821E1D542F04FC9600ADC85E /* Build configuration list for PBXNativeTarget "X:ColorQuest" */ = {
+		821E1D542F04FC9600ADC85E /* Build configuration list for PBXNativeTarget "XColorQuest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				821E1D552F04FC9600ADC85E /* Debug */,
@@ -564,7 +566,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		821E1D572F04FC9600ADC85E /* Build configuration list for PBXNativeTarget "X:ColorQuestTests" */ = {
+		821E1D572F04FC9600ADC85E /* Build configuration list for PBXNativeTarget "XColorQuestTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				821E1D582F04FC9600ADC85E /* Debug */,
@@ -573,7 +575,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		821E1D5A2F04FC9600ADC85E /* Build configuration list for PBXNativeTarget "X:ColorQuestUITests" */ = {
+		821E1D5A2F04FC9600ADC85E /* Build configuration list for PBXNativeTarget "XColorQuestUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				821E1D5B2F04FC9600ADC85E /* Debug */,
