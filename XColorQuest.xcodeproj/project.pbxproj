@@ -12,37 +12,37 @@
 			containerPortal = 821E1D272F04FC9400ADC85E /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 821E1D2E2F04FC9400ADC85E;
-			remoteInfo = "XColorQuest";
+			remoteInfo = XColorQuest;
 		};
 		821E1D4B2F04FC9600ADC85E /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 821E1D272F04FC9400ADC85E /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 821E1D2E2F04FC9400ADC85E;
-			remoteInfo = "XColorQuest";
+			remoteInfo = XColorQuest;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		821E1D2F2F04FC9400ADC85E /* XColorQuest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "XColorQuest.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		821E1D402F04FC9600ADC85E /* XColorQuestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "XColorQuestTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		821E1D4A2F04FC9600ADC85E /* XColorQuestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "XColorQuestUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		821E1D2F2F04FC9400ADC85E /* XColorQuest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XColorQuest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		821E1D402F04FC9600ADC85E /* XColorQuestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XColorQuestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		821E1D4A2F04FC9600ADC85E /* XColorQuestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XColorQuestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		821E1D312F04FC9400ADC85E /* XColorQuest */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "XColorQuest";
+			path = XColorQuest;
 			sourceTree = "<group>";
 		};
 		821E1D432F04FC9600ADC85E /* XColorQuestTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "XColorQuestTests";
+			path = XColorQuestTests;
 			sourceTree = "<group>";
 		};
 		821E1D4D2F04FC9600ADC85E /* XColorQuestUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "XColorQuestUITests";
+			path = XColorQuestUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -110,10 +110,10 @@
 			fileSystemSynchronizedGroups = (
 				821E1D312F04FC9400ADC85E /* XColorQuest */,
 			);
-			name = "XColorQuest";
+			name = XColorQuest;
 			packageProductDependencies = (
 			);
-			productName = "XColorQuest";
+			productName = XColorQuest;
 			productReference = 821E1D2F2F04FC9400ADC85E /* XColorQuest.app */;
 			productType = "com.apple.product-type.application";
 		};
@@ -133,10 +133,10 @@
 			fileSystemSynchronizedGroups = (
 				821E1D432F04FC9600ADC85E /* XColorQuestTests */,
 			);
-			name = "XColorQuestTests";
+			name = XColorQuestTests;
 			packageProductDependencies = (
 			);
-			productName = "XColorQuestTests";
+			productName = XColorQuestTests;
 			productReference = 821E1D402F04FC9600ADC85E /* XColorQuestTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
@@ -156,10 +156,10 @@
 			fileSystemSynchronizedGroups = (
 				821E1D4D2F04FC9600ADC85E /* XColorQuestUITests */,
 			);
-			name = "XColorQuestUITests";
+			name = XColorQuestUITests;
 			packageProductDependencies = (
 			);
-			productName = "XColorQuestUITests";
+			productName = XColorQuestUITests;
 			productReference = 821E1D4A2F04FC9600ADC85E /* XColorQuestUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
@@ -388,12 +388,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = "XColorQuest/X_ColorQuest.entitlements";
+				CODE_SIGN_ENTITLEMENTS = XColorQuest/X_ColorQuest.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"XColorQuest/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "X:ColorQuest";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -426,12 +427,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = "XColorQuest/X_ColorQuest.entitlements";
+				CODE_SIGN_ENTITLEMENTS = XColorQuest/X_ColorQuest.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"XColorQuest/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "X:ColorQuest";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -519,7 +521,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_TARGET_NAME = "XColorQuest";
+				TEST_TARGET_NAME = XColorQuest;
 				XROS_DEPLOYMENT_TARGET = 2.2;
 			};
 			name = Debug;
@@ -540,7 +542,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_TARGET_NAME = "XColorQuest";
+				TEST_TARGET_NAME = XColorQuest;
 				XROS_DEPLOYMENT_TARGET = 2.2;
 			};
 			name = Release;
